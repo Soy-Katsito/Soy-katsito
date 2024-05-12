@@ -30,7 +30,6 @@ CONST DEREK = {
   frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
   database: ["Postgresql", "mySQL", "Redis"],
   "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
 
