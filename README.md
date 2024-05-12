@@ -1,4 +1,4 @@
-<h1 align="center">SoyKat Opa soy kat!</h1>
+<h1 align="center">. ⧉ . ✿ . ꔫ . Soy Kat. ⪩⪨ . 📲</h1>
 <h3 align="center">Hola, mi nombre actualmente es kat, un man q anda por ahi haciendo mamadas en programacion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soy-katsito&label=Profile%20views&color=0e75b6&style=flat" alt="soy-katsito" /> </p>
