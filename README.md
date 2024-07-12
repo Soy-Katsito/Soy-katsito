@@ -6,7 +6,7 @@
   <a href="https://github.com/dereknguyen269?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Soy-katsito?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
