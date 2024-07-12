@@ -19,7 +19,8 @@
 - :computer: Quiero trabajar como Ingeniero de Sistemas o de Software.
 - :dart: Actualmente no estoy trabajando en algun proyecto.
 - :video_game: Amo el Geometry Dash
-- :coffee: I'm coffeer.
+- :coffee: Querei un cafe?
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poquito mas de mi...  
 
