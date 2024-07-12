@@ -15,9 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Soy-katsito&show_icons=true" alt="Soy-katsito" align="right" />
 </a>
 
-- :house: I Actualmente vivo en mi querido pais Colombia.
+- :house: Actualmente vivo en mi querido pais Colombia.
 - :computer: Quiero trabajar como Ingeniero de Sistemas o de Software.
-- :dart: Actualmente no estoy trabajando en algun proyecto.
+- :dart: No estoy trabajando en algun proyecto.
 - :video_game: Amo el Geometry Dash
 - :coffee: Querei un cafe?
 
