@@ -1,9 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Que onda, Soy Katsito!</h1>
 <p align="left">
-  <a href="https://github.com/dereknguyen269">
+  <a href="https://github.com/Soy-Katsito">
     <img src="https://komarev.com/ghpvc/?username=Soy-katsito" alt="page views">
   </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
+  <a href="https://github.com/Soy-Katsito?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Soy-katsito?color=green&logo=github">
   </a>
   <a href="">
