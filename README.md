@@ -1,5 +1,8 @@
 **type shi, hiii**
+
 I've love coding since I was a kid mostly, been learning a lot of langaujes and been making a lot of private proyects, like obfuscators, whitelsits, anti-cheats, and more bs that could get public later!!!!
+
+<hr>
 
 What I know
 
